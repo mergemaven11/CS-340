@@ -27,3 +27,8 @@ You can install the necessary libraries using:
 ```bash
 pip install dash pandas pymongo
 ```
+
+
+How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+
+- As a computer scientist, I approach problems by first thoroughly understanding the requirements and breaking them into smaller, manageable tasks. For Grazioso Salvare's project, I focused on analyzing their database and dashboard needs, designing a clear schema, and ensuring user-friendly interaction, which required a more open-ended and client-focused approach compared to previous assignments with predefined tasks. This experience taught me the importance of clear communication, iterative refinement, and leveraging tools like mock-ups and diagrams to align technical implementation with client goals. In the future, I’ll continue using these strategies to create scalable and efficient databases tailored to client needs.
